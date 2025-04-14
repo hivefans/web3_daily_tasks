@@ -1,2 +1,2 @@
-# web3_daily_tasks
-web3 daily chrome extension
+# web3 daily
+The extension is a tool specifically designed for Web3 tasks and airdrops, aiming to help users earn rewards such as NFTs, POAPs, airdrop eligibility, and tokens. By completing tasks on Web3 task platforms, users can obtain rewards at relatively low cost and risk, while also accumulating proof of their on-chain and off-chain activities.
